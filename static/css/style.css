@@ -201,7 +201,9 @@ progress::-moz-progress-value {
     height:160px;
 }
 
-
+.portrait img{
+    width:160px;
+}
 .container {
     position: relative;
     margin: 0 auto;
