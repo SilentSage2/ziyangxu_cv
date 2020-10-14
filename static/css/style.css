@@ -29,6 +29,11 @@ span {
     display: inline-block;
 }
 
+.left-label {
+    display: inline-block;
+    width: 120px;
+}
+
 .label-value{
     width: 200px;
     vertical-align: top;
@@ -180,11 +185,6 @@ progress::-moz-progress-value {
 
 .weixin img{
     width: 200px;
-}
-
-.left-label {
-    display: inline-block;
-    width: 120px;
 }
 
 .portrait {
