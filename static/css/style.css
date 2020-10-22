@@ -174,9 +174,15 @@ progress::-moz-progress-value {
     margin-bottom: 20px;
 }
 
-.me img{
-    position: relative;
-    width: 300px;
+.logo{
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom: 10px;
+    background-image:url(../image/ZJU_UIUC.png);
+    background-size: 82%;
+    background-position:center;
+    width:300px;
+    /* height:200px; */
 }
 
 .weixin{
