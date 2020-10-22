@@ -179,7 +179,7 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url(../image/ZJU_UIUC.png);
-    background-size: 120%;
+    background-size: 100%;
     background-position:center;
     width: 300px;
     height: 70px;
