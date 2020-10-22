@@ -184,12 +184,19 @@ progress::-moz-progress-value {
     width: 300px;
     height: 50px;
 }
-/* .me img{
-    padding-top: 20px;
-    padding-bottom: 20px;
+
+.school{
+    margin-top: 20px;
+    background-color: #e0eaf0;   
     position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.school figure{
     width: 300px;
-} */
+}
 
 .weixin{
     margin-top: 20px;
