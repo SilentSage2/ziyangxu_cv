@@ -175,16 +175,14 @@ progress::-moz-progress-value {
 }
 
 .logo{
-    margin-top: 20px;
-    background-color: #e0eaf0;   
-    position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    text-align: center;
-}
-
-.logo img{
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom: 10px;
+    background-image:url(../image/ZJU_UIUC.png);
+    background-size: 90%;
+    background-position:center;
     width: 300px;
+    height: 200px;
 }
 /* .me img{
     padding-top: 20px;
