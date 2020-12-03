@@ -126,7 +126,8 @@ hr {
 
 
 body {
-    background-color: lightslategray;
+    /* background-color: lightslategray; */
+    background-color: white;
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
     zoom: 80%;
 }
